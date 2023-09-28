@@ -1,0 +1,9 @@
+.table__users{
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.table__users td{
+    border: 1px solid black;
+}
